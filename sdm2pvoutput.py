@@ -221,6 +221,7 @@ def main_loop():
                             energy_gen=v1*1000,
                             power_gen=v2,
                             vac=vac,
+                            cumulative=True,
                             system_id=config['pvoutput']['systemID'])
 
             # All inverters sent data so
