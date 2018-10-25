@@ -1,0 +1,6 @@
+--constraint constraints.txt
+configobj
+pymodbus
+pyserial
+pytz
+requests
