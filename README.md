@@ -1,3 +1,6 @@
+#### This repository is deprecated in favor of other solution I am using right now.
+
+
 # Eastron SDMxxx energy meters
 
 This code reads registers from Eastron energy meters via modbus protocol over a RS-232 or RS-485 interface. This might work with any Eastron meter that follows modbus protocol but is tested on:
